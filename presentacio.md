@@ -1,5 +1,7 @@
 ## PROJECTES
 
+[Perfil](https://github.com/Pau-Guerrero)
+
 [Projecte 1](https://github.com/Pau-Guerrero/PROJECTE1)
 
 [Projecte 2](https://github.com/Pau-Guerrero/Projecte2)
