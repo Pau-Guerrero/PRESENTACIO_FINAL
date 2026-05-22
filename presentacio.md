@@ -14,7 +14,7 @@
 
 [Projecte 7](https://github.com/classesSMX2n/projecte-7-Pau-Guerrero-1)
 
-[Projecte 7 WEB](https://github.com/classesSMX2n/web-projecte7-Pau-Guerrero)
+[Projecte WEB 7](https://github.com/classesSMX2n/web-projecte7-Pau-Guerrero)
 
 [Projecte PRE 8](https://github.com/Pau-Guerrero/Projecte_PRE8)
 
