@@ -189,9 +189,13 @@ En aquest apartat es destaquen alguns dels documents i productes més importants
 
 ### Projecte 5
 
+- [Presentació Maqueta Figma (T01)](https://github.com/Pau-Guerrero/projecte5-Pau-Guerrero/tree/main/T01)
 - [Presentació Projecte 5 (P03)](https://github.com/Pau-Guerrero/projecte5-Pau-Guerrero/tree/main/P03)
 
 ### Projecte 4
+
+- [Presentació Maqueta Figma (P02)](https://github.com/Pau-Guerrero/PROJECTE-4/tree/main/P02)
+- [Fitxes d’Economia Circular (P04)](https://github.com/Pau-Guerrero/PROJECTE-4/tree/main/P04)
 
 ### Projecte 3
 
