@@ -197,6 +197,10 @@ En aquest apartat es destaquen alguns dels documents i productes més importants
 
 ### Projecte 2
 
+- [Kanban & Compte de Github (P01)](https://github.com/Pau-Guerrero/Projecte2/tree/main/P01)
+- [documentació de seguretat (P02)](https://github.com/Pau-Guerrero/Projecte2/tree/main/P02)
+- [Presentació hosting (P03)](https://github.com/Pau-Guerrero/Projecte2/tree/main/P03)
+
 ### Projecte 1
 
 - [Kanban (P01)](https://github.com/Pau-Guerrero/PROJECTE1/tree/main/P01)
