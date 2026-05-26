@@ -200,6 +200,8 @@ En aquest apartat es destaquen alguns dels documents i productes més importants
 ### Projecte 1
 
 - [Kanban (P01)](https://github.com/Pau-Guerrero/PROJECTE1/tree/main/P01)
+- [Simualcio (P02)](https://github.com/Pau-Guerrero/PROJECTE1/tree/main/P02)
+- [Presentació seguretat (P03)](https://github.com/Pau-Guerrero/PROJECTE1/tree/main/P03)
 
 ---
 
