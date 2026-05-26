@@ -178,19 +178,23 @@ En aquest apartat es destaquen alguns dels documents i productes més importants
 
 ### Projecte 8
 
+- [Detecció de necessitats reals](https://github.com/Pau-Guerrero/projecte-8-Pau-Guerrero/tree/main/T01)
+
 ### Projecte 7
 
-- [Pàgina web Projecte 7](https://github.com/Pau-Guerrero/web-projecte7-Pau-Guerrero)
-- [Memòria tècnica Projecte 7 (P01)](https://github.com/Pau-Guerrero/projecte-7-Pau-Guerrero-1/tree/main/P01)
+- [Pàgina web](https://github.com/Pau-Guerrero/web-projecte7-Pau-Guerrero)
+- [Memòria tècnica (P01)](https://github.com/Pau-Guerrero/projecte-7-Pau-Guerrero-1/tree/main/P01)
+- [Migrant al cloud (T07)](https://github.com/Pau-Guerrero/projecte-7-Pau-Guerrero-1/tree/main/T07)
 
 ### Projecte 6
 
+- [MEMORIA PROJECTE NEXUS (P01)](https://github.com/Pau-Guerrero/projecte6-Pau-Guerrero/tree/main/P01)
 - [Presentació Nexus Projecte 6 (P02)](https://github.com/Pau-Guerrero/projecte6-Pau-Guerrero/tree/main/P02)
 
 ### Projecte 5
 
-- [Presentació Maqueta Figma (T01)](https://github.com/Pau-Guerrero/projecte5-Pau-Guerrero/tree/main/T01)
-- [Presentació Projecte 5 (P03)](https://github.com/Pau-Guerrero/projecte5-Pau-Guerrero/tree/main/P03)
+- [Creació d’una Startup IT B2B (T01)](https://github.com/Pau-Guerrero/projecte5-Pau-Guerrero/tree/main/T01)
+- [Presentació T01 (Guió, Suport i Assaig) (P03)](https://github.com/Pau-Guerrero/projecte5-Pau-Guerrero/tree/main/P03)
 
 ### Projecte 4
 
