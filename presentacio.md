@@ -162,7 +162,7 @@ El resultat final és crear solucions completes i assessoraments professionals b
 **Enllaços:**
 
 - [Projecte PRE 8](https://github.com/Pau-Guerrero/Projecte_PRE8)
-- [Projecte 8](https://github.com/classesSMX2n/projecte-8-Pau-Guerrero)
+- [Projecte 8](https://github.com/Pau-Guerrero/projecte-8-Pau-Guerrero)
 
 ---
 
@@ -176,18 +176,30 @@ El resultat final és crear solucions completes i assessoraments professionals b
 
 En aquest apartat es destaquen alguns dels documents i productes més importants realitzats durant el curs.
 
+### Projecte 8
+
 ### Projecte 7
 
 - [Pàgina web Projecte 7](https://github.com/Pau-Guerrero/web-projecte7-Pau-Guerrero)
-- [Memòria tècnica Projecte 7](https://github.com/classesSMX2n/projecte-7-Pau-Guerrero-1/tree/main/P01)
+- [Memòria tècnica Projecte 7 (P01)](https://github.com/Pau-Guerrero/projecte-7-Pau-Guerrero-1/tree/main/P01)
 
 ### Projecte 6
 
-- [Presentació Nexus Projecte 6](https://github.com/classesSMX2n/projecte6-Pau-Guerrero/tree/main/P02)
+- [Presentació Nexus Projecte 6 (P02)](https://github.com/Pau-Guerrero/projecte6-Pau-Guerrero/tree/main/P02)
 
 ### Projecte 5
 
-- [Presentació Projecte 5](https://github.com/Pau-Guerrero/projecte5-Pau-Guerrero/tree/main/P03)
+- [Presentació Projecte 5 (P03)](https://github.com/Pau-Guerrero/projecte5-Pau-Guerrero/tree/main/P03)
+
+### Projecte 4
+
+### Projecte 3
+
+### Projecte 2
+
+### Projecte 1
+
+- [Kanban (P01)](https://github.com/Pau-Guerrero/PROJECTE1/tree/main/P01)
 
 ---
 
@@ -219,7 +231,7 @@ Per pujar els canvis als repositoris utilitzo comandes bàsiques de Git:
 git add .
 git commit -m "Conclusions Tasca03"
 git push
-````
+```
 
 Aquest sistema em permet tenir un control més clar dels canvis i mantenir els projectes actualitzats.
 
