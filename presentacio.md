@@ -112,7 +112,7 @@ El resultat final és un **pitch tipus Shark Tank**, on s’ha de defensar l’e
 
 **Enllaç:**
 
-- [Projecte 5](https://github.com/classesSMX2n/projecte5-Pau-Guerrero)
+- [Projecte 5](https://github.com/Pau-Guerrero/projecte5-Pau-Guerrero)
 
 ---
 
@@ -128,7 +128,7 @@ El resultat final és presentar una proposta completa i justificada, com ho fari
 
 **Enllaç:**
 
-- [Projecte 6](https://github.com/classesSMX2n/projecte6-Pau-Guerrero)
+- [Projecte 6](https://github.com/Pau-Guerrero/projecte6-Pau-Guerrero)
 
 ---
 
@@ -144,8 +144,8 @@ El resultat final és presentar una proposta tècnica completa i defensar-la dav
 
 **Enllaços:**
 
-- [Projecte 7](https://github.com/classesSMX2n/projecte-7-Pau-Guerrero-1)
-- [Projecte Web 7](https://github.com/classesSMX2n/web-projecte7-Pau-Guerrero)
+- [Projecte 7](https://github.com/Pau-Guerrero/projecte-7-Pau-Guerrero-1)
+- [Projecte Web 7](https://github.com/Pau-Guerrero/web-projecte7-Pau-Guerrero)
 
 ---
 
@@ -178,7 +178,7 @@ En aquest apartat es destaquen alguns dels documents i productes més importants
 
 ### Projecte 7
 
-- [Pàgina web Projecte 7](https://github.com/classesSMX2n/web-projecte7-Pau-Guerrero)
+- [Pàgina web Projecte 7](https://github.com/Pau-Guerrero/web-projecte7-Pau-Guerrero)
 - [Memòria tècnica Projecte 7](https://github.com/classesSMX2n/projecte-7-Pau-Guerrero-1/tree/main/P01)
 
 ### Projecte 6
