@@ -245,25 +245,5 @@ La pràctica i l'ús de la **terminal** em van donar més control i van reduir e
 
 ---
 
-# 7. Conclusions finals
-
-Durant aquest curs he treballat en diferents projectes relacionats amb sistemes, xarxes, web, consultoria IT i sostenibilitat. 
-
-A través d’aquests projectes he après a:
-
-- [x] Utilitzar **GitHub** i **VS Code** fluidament.
-- [x] Documentar projectes amb **Markdown**.
-- [x] Organitzar repositoris correctament.
-- [x] Treballar amb serveis i infraestructures IT.
-- [x] Comparar tecnologies i justificar decisions.
-- [x] Preparar propostes tècniques per a clients.
-- [x] Millorar la meva autonomia i resolució de problemes.
-
-<br>
-
-<div align="center">
-  
-### 🌟 Aquest GitHub és una mostra del meu aprenentatge i de la meva evolució durant el curs.
-
 # 🎉 Gràcies per la vostra atenció!
 
