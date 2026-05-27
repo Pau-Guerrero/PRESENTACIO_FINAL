@@ -165,27 +165,26 @@ Cada projecte representa una fase diferent del meu aprenentatge, mostrant com he
 
 # 4. Documentació rellevant
 
-Destaco alguns dels documents i productes més importants realitzats durant el curs:
-
 | Proj | 📄 Documentació Destacada |
 |---|---|
-| **P8** | [🔍 Detecció de necessitats reals](https://github.com/Pau-Guerrero/projecte-8-Pau-Guerrero/tree/main/T01) |
-
+<br>
+| **P8** | [🔍 Detecció de necessitats reals](https://github.com/Pau-Guerrero/projecte-8-Pau-Guerrero/tree/main/T01) | 
+<br>
 | **P7** | [🌐 Pàgina web](https://github.com/Pau-Guerrero/web-projecte7-Pau-Guerrero) • [📝 Memòria tècnica P01](https://github.com/Pau-Guerrero/projecte-7-Pau-Guerrero-1/tree/main/P01) • [☁️ Migrant al cloud T07](https://github.com/Pau-Guerrero/projecte-7-Pau-Guerrero-1/tree/main/T07) |
-
+<br>
 | **P6** | [📖 Memòria Nexus P01](https://github.com/Pau-Guerrero/projecte6-Pau-Guerrero/tree/main/P01) • [📊 Presentació Nexus P02](https://github.com/Pau-Guerrero/projecte6-Pau-Guerrero/tree/main/P02) |
-
+<br>
 | **P5** | [🚀 Startup IT B2B T01](https://github.com/Pau-Guerrero/projecte5-Pau-Guerrero/tree/main/T01) • [🎙️ Guió i assaig P03](https://github.com/Pau-Guerrero/projecte5-Pau-Guerrero/tree/main/P03) |
-
+<br>
 | **P4** | [🎨 Maqueta Figma P02](https://github.com/Pau-Guerrero/PROJECTE-4/tree/main/P02) • [♻️ Economia Circular P04](https://github.com/Pau-Guerrero/PROJECTE-4/tree/main/P04) |
-
+<br>
 | **P3** | [🎥 Vídeo Fonaments DNS P06](https://github.com/Pau-Guerrero/Projecte3/tree/main/Producte06) • [🛡️ Projecte ASG P07](https://github.com/Pau-Guerrero/Projecte3/tree/main/Producte07) |
-
+<br>
 | **P2** | [📌 Kanban i GitHub P01](https://github.com/Pau-Guerrero/Projecte2/tree/main/P01) • [🔒 Doc. Seguretat P02](https://github.com/Pau-Guerrero/Projecte2/tree/main/P02) • [🌐 Presentació hosting — P03](https://github.com/Pau-Guerrero/Projecte2/tree/main/P03) |
-
+<br>
 | **P1** | [📌 Kanban P01](https://github.com/Pau-Guerrero/PROJECTE1/tree/main/P01) • [🔍 Simulació — P02](https://github.com/Pau-Guerrero/PROJECTE1/tree/main/P02) • [🛡️ Presentació seguretat P03](https://github.com/Pau-Guerrero/PROJECTE1/tree/main/P03) |
 
----
+<br>
 
 # 5. Organització del treball
 
